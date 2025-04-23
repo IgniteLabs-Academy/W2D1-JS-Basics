@@ -1,0 +1,10 @@
+{
+  "name": "week-2-day-1-js-basics",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
