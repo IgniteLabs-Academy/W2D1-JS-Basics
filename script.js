@@ -1,9 +1,8 @@
-// TODO: Declare a variable 'name' and assign your name as a string
+// Assignment Instructions:
+// 1. Declare at least 5 variables of different types (string, number, boolean, array, object).
+// 2. Perform arithmetic operations with numbers (e.g., addition, subtraction).
+// 3. Compare values using both == and === operators.
+// 4. Use typeof to check and display the type of each variable.
+// 5. Output results using both console.log() and alert().
 
-// TODO: Declare a variable 'age' and assign your age as a number
-
-// TODO: Declare a variable 'isStudent' and assign true or false
-
-// TODO: Create a variable 'sum' and assign it the result of adding two numbers
-
-// TODO: Use console.log() to print a message using string concatenation
+// Write your code below this line:
